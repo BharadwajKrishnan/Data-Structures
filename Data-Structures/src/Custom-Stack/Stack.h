@@ -62,6 +62,15 @@ public:
 		return N;
 	}
 
+	// Checks if stack is empty
+	bool empty()
+	{
+		if(m_sp == 0)
+			return true;
+		else
+			return false;
+	}
+
 	// Destructor
 	virtual ~Stack()
 	{
