@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Data-Structures.cpp
+// Name        : Circular_Buffer.h
 // Author      : Bharadwaj Krishnan
 // Version     : -
 // Copyright   : Your copyright notice

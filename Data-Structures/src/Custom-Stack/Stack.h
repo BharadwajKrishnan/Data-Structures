@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Data-Structures.cpp
+// Name        : Stack.h
 // Author      : Bharadwaj Krishnan
 // Version     : -
 // Copyright   : Your copyright notice

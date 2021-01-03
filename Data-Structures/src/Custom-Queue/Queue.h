@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : Queue.h
+// Author      : Bharadwaj Krishnan
+// Version     : -
+// Copyright   : Your copyright notice
+// Description : Template Class for a Queue using a Stack
+//============================================================================
+
 #include "Stack.h"
 
 namespace Queue_Costly_enQueue
