@@ -12,7 +12,7 @@
 #include <iostream>
 
 template<typename T>
-class MyLinkedList
+class LinkedList
 {
 private:
     struct Node
@@ -30,7 +30,7 @@ private:
     int m_size;
 public:
     /** Initialize data structure here. */
-    MyLinkedList()
+    LinkedList()
     {
     	m_size = 0;
 
@@ -204,6 +204,7 @@ public:
 
         }
     }
+
 };
 
 
